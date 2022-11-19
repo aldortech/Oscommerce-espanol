@@ -23,3 +23,6 @@ define('TEXT_ALTERNATIVE_CHECKOUT_METHODS', '- O -');
 
 define('CART_BUTTON_UPDATE', '');
 define('CART_BUTTON_REMOVE', '');
+define('TEXT_ALTERNATIVE_CHECKOUT_METHODS', '- OR -');
+define('TEXT_OR', 'o ');
+define('TEXT_REMOVE', 'retirar');
